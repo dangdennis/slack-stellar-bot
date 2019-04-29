@@ -80,6 +80,7 @@ github.com/sourcegraph/jsonrpc2 v0.0.0-20190106185902-35a74f039c6a h1:jTZwOlrDhm
 github.com/sourcegraph/jsonrpc2 v0.0.0-20190106185902-35a74f039c6a/go.mod h1:eESpbCslcLDs8j2D7IEdGVgul7xuk9odqDTaor30IUU=
 github.com/stellar/go v0.0.0-20190425211819-b9efeb270aea h1:1N2WGiBL4aSjpI3ftp4XNLON+xbvNmO59k5/1TrydkA=
 github.com/stellar/go v0.0.0-20190425211819-b9efeb270aea/go.mod h1:Kkro8X6IWn/5XtSicGd6N2LZKMKUCWS5wS5Ctjh6+Vw=
+github.com/stellar/go v0.0.0-20190429202852-312b42de99d7 h1:8KTCly8dx/GMC4Fy3+QckFJVwbnclZswGizpxLH8Cu4=
 github.com/stellar/go-xdr v0.0.0-20180917104419-0bc96f33a18e h1:n/hfey8pO+RYMoGXyvyzuw5pdO8IFDoyAL/g5OiCesY=
 github.com/stellar/go-xdr v0.0.0-20180917104419-0bc96f33a18e/go.mod h1:gpOLVzy6TVYTQ3LvHSN9RJC700FkhFCpSE82u37aNRM=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

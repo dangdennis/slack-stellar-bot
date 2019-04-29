@@ -31,7 +31,7 @@ require (
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20190106185902-35a74f039c6a // indirect
 	github.com/stellar/go v0.0.0-20190425211819-b9efeb270aea
 	github.com/stellar/go-xdr v0.0.0-20180917104419-0bc96f33a18e // indirect
-	github.com/stretchr/testify v1.3.0 // indirect
+	github.com/stretchr/testify v1.3.0
 	github.com/valyala/fasthttp v1.2.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect

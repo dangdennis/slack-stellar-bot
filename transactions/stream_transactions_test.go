@@ -12,7 +12,7 @@ import (
 func TestStreamTransactions(t *testing.T) {
 	client := horizonclient.DefaultTestNetClient
 	// all transactions
-	transactionRequest := horizonclient.TransactionRequest{Cursor: "760209215489"}
+	transactionRequest := horizonclient.TransactionRequest{Limit: 50}
 
 	ctx, cancel := context.WithCancel(context.Background())
 	go func() {
