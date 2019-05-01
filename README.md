@@ -1,4 +1,4 @@
-# Slack Stellar Bot
+# Stellar experiments
 
 [Stellar App Ideas](https://www.stellar.org/developers/guides/things-to-build.html)
 
